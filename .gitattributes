@@ -1,0 +1,5 @@
+# Force correct language detection for GitHub Linguist
+
+*.php        linguist-language=PHP
+*.css        linguist-language=CSS
+*.md         linguist-language=Markdown
